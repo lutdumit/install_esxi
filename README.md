@@ -14,3 +14,7 @@ VirtualBox Version 6.1.34
 chmod a+x install_esxi.sh
 
 ./install_esxi.sh
+
+ <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=My48o1ggVB8">
+</iframe> 
