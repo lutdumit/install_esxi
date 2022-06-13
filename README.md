@@ -15,6 +15,8 @@ chmod a+x install_esxi.sh
 
 ./install_esxi.sh
 
+<p align="center">
  <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=My48o1ggVB8">
 </iframe> 
+</p>
